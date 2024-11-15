@@ -14,13 +14,13 @@ This project is a notes app built with React. It allows users to:
 Here are some screenshots of the finished app:
 
 ### 1. Main Page with All Notes
-![Main Page](screnshots\Notes.png)
+![Main Page](screenshots\Notes.png)
 
 ### 2. Create New Note
-![Create Note](screnshots\Notes.png)
+![Create Note](screenshots\Notes.png)
 
 ### 3. Search Notes
-![Search Notes](screnshots\search-notes.png)
+![Search Notes](screenshots\search-notes.png)
 
 ## How to Run the App
 cd reactjs-interview-task
@@ -76,7 +76,6 @@ npm test
 
 - Pagination or Infinite Scrolling: Load data in chunks to reduce the initial load time.
 - Database Optimization: Use indexing and query optimization for faster data retrieval.
-- Caching: Implement caching (e.g., using Redis) to store frequently accessed data.
 - Load Balancing: Use load balancers to distribute traffic across multiple servers.
 - loud Services: Utilize cloud platforms (like AWS, Azure) for scalable infrastructure.
 
