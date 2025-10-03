@@ -1,4 +1,4 @@
-# Flex Business Solutions Tech Test
+# React JS Task
 
 This project is a notes app built with React. It allows users to:
 - Create new notes
@@ -84,6 +84,3 @@ npm test
 This project is licensed under the MIT License.
 
 
-### Author
-- Zahide Haziri
-- LinkedIn Profile: www.linkedin.com/in/zahide-haziri-30414b260
